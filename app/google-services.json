@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "916022846912",
+    "firebase_url": "https://long-s-reporter.firebaseio.com",
+    "project_id": "long-s-reporter",
+    "storage_bucket": "long-s-reporter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916022846912:android:cc4aa92018c70029",
+        "android_client_info": {
+          "package_name": "com.ngoclong.testfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916022846912-ruvpib9prsv6tg2bp1jedimhca6l0ce9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlUzR2nJXN_pUXBs3b8WHZGg2ao7QGh-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916022846912-ruvpib9prsv6tg2bp1jedimhca6l0ce9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

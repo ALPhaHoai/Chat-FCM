@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test FCM</string>
+    <string name="msg_token_fmt">Firebase token %s</string>
+</resources>
